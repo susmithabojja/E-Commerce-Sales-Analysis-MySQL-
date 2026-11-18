@@ -1,0 +1,10 @@
+metric,value
+Customers,8.0
+Orders,12.0
+Completed orders,9.0
+Cancelled orders,1.0
+Pending orders,2.0
+Paid revenue (completed orders only),258000.0
+Paid completed orders,9.0
+Average order value (paid completed orders),28666.67
+Cancellation rate (%),8.33
