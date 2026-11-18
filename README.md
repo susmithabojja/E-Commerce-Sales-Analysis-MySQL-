@@ -62,6 +62,7 @@ Average Order Value : ₹28,666.67
 Cancellation Rate : 8.33%
 These results are based on the sample data included in this project. Paid revenue considers completed orders with successful payments.
 # Entity Relationship Diagram
-The database consists of five related tables connected through primary and foreign keys.
+<img width="2501" height="1601" alt="er_diagram" src="https://github.com/user-attachments/assets/7bde316c-964c-4726-acd1-bf7933a250ef" />
+
 # Project Outcome
 This project demonstrates how SQL can be used to analyze e-commerce data and solve real-world business problems. It provides practical experience in database management, data analysis, and generating business insights using MySQL.
