@@ -13,12 +13,12 @@ The goal is to transform raw data into actionable insights that can help busines
 -Calculate important business KPIs.
 # Database Structure
 The project uses five relational tables:
-# Table Name                                      Description
-customers                               Stores customer details
-products                                Contains product and category information
-orders                                  Stores customer order details
-order_items                             Contains products and quantities in each order
-payments                                Stores payment details and status
+# Table Name                                     
+customers                               
+products                                
+orders                                  
+order_items                             
+payments                                
 # Tools & Technologies
 Database: MySQL 8.0+
 Language: SQL
