@@ -12,8 +12,7 @@ The goal is to transform raw data into actionable insights that can help busines
 -Analyze payment methods and payment performance.
 -Calculate important business KPIs.
 # Database Structure
-The project uses five relational tables:
-# Table Name                                     
+The project uses five relational tables:                                     
 customers                               
 products                                
 orders                                  
